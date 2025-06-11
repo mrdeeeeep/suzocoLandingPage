@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap');
+
+.terms-of-service {
+  font-family: 'Inter', sans-serif;
+  color: #2D2D2D;
+  max-width: 1200px;
+  margin: auto;
+  padding: 0 1rem;
+  line-height: 1.6;
+}
+
+.terms-of-service h1 {
+  padding-top: 100px;
+  font-size: 2rem;
+  font-weight: 700;
+  margin-bottom: 1rem;
+  color: #111827;
+}
+
+.terms-of-service .effective-date {
+  font-style: italic;
+  margin-bottom: 1.5rem;
+  color: #4B5563;
+}
+
+.terms-of-service h2 {
+  font-size: 1.25rem;
+  font-weight: 600;
+  margin-top: 2rem;
+  margin-bottom: 0.75rem;
+  color: #111827;
+}
+
+.terms-of-service p {
+  margin-bottom: 1rem;
+}
